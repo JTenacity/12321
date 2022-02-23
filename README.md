@@ -1,1 +1,2 @@
 base_func
+branch1 func1
